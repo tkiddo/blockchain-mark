@@ -40,3 +40,11 @@ solidity 语言注意：
 2.  版本：声明源文件使用的 solidit 版本，不同版本语法差别较大。
 
 3.  语句分号结尾。
+
+## Day 3
+
+solidity 数值类型：布尔 bool，有符号整数 int，无符号整数 uint，256 位整数 uint256，字节数组 bytes（定长和不定长），地址类型 address，枚举值 enum
+
+以太坊安全知识：
+
+重入攻击：the DAO 被盗事件。
