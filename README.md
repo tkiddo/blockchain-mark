@@ -48,3 +48,19 @@ solidity 数值类型：布尔 bool，有符号整数 int，无符号整数 uint
 以太坊安全知识：
 
 重入攻击：the DAO 被盗事件。
+
+## Day 4
+
+solidity 函数：
+
+可见性：
+
+`external`: 只能外部调用
+`internal`: 只能内部调用，包括子合约
+`public`: 内部外部均可见
+`private`: 内部调用，不包括子合约
+
+功能性：
+`view`: 可以查看合约状态，不能修改
+`pure`: 对合约状态不能看也不能修改
+`payable`:可支付
