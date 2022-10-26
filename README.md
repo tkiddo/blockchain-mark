@@ -64,3 +64,9 @@ solidity 函数：
 `view`: 可以查看合约状态，不能修改
 `pure`: 对合约状态不能看也不能修改
 `payable`:可支付
+
+## Day 5
+
+[崔棉大师 solidity 教程](https://space.bilibili.com/286084162/channel/collectiondetail?sid=296410)
+
+变量默认值，循环语句（和 javascript 类似）
