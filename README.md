@@ -70,3 +70,11 @@ solidity 函数：
 [崔棉大师 solidity 教程](https://space.bilibili.com/286084162/channel/collectiondetail?sid=296410)
 
 变量默认值，循环语句（和 javascript 类似）
+
+## Day 6
+
+vscode remix 插件使用。
+
+1. command+shift+P 唤起命令窗口，找到 remix compile with solidity extension 执行编译
+
+2. 打开插件，点击 run and deploy，然后连接到 remix，需要点开浏览器并 connect to localhost
