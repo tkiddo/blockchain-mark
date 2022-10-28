@@ -60,7 +60,8 @@ solidity 函数：
 `public`: 内部外部均可见
 `private`: 内部调用，不包括子合约
 
-功能性：
+合约状态相关：
+
 `view`: 可以查看合约状态，不能修改
 `pure`: 对合约状态不能看也不能修改
 `payable`:可支付
@@ -78,3 +79,7 @@ vscode remix 插件使用。
 1. command+shift+P 唤起命令窗口，找到 remix compile with solidity extension 执行编译
 
 2. 打开插件，点击 run and deploy，然后连接到 remix，需要点开浏览器并 connect to localhost
+
+## Day 7
+
+[remix 本地化部署](https://learnblockchain.cn/article/3426)
