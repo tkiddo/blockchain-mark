@@ -83,3 +83,8 @@ vscode remix 插件使用。
 ## Day 7
 
 [remix 本地化部署](https://learnblockchain.cn/article/3426)
+
+```
+docker run -p 8080:80 remixproject/remix-ide:latest
+remixd -s ./ --remix-ide http://localhost:8080
+```
